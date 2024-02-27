@@ -1,0 +1,3 @@
+https://www.depends-on-the-definition.com/lda-from-scratch
+https://github.com/ChangUk/pyGibbsLDA
+https://gist.github.com/mblondel/542786
