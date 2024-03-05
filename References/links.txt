@@ -2,3 +2,4 @@ https://www.depends-on-the-definition.com/lda-from-scratch
 https://github.com/ChangUk/pyGibbsLDA
 https://gist.github.com/mblondel/542786
 https://zenodo.org/records/7005201 (dataset)
+https://proceedings.mlr.press/v13/xiao10a/xiao10a.pdf
